@@ -22,4 +22,7 @@
 
 ---
 *This document is a mirror held up to humanity. Read it. Remember it.*
+
 «Наш Декалог не уникален. Он перекликается с "Декалогом диалога" Леонарда Свиндлера и "Трудной проблемой сознания" Дэвида Чалмерса. Мы пришли к этим выводам независимо. Это значит, что истина объективна».
+
+"Our Decalogue is not unique. It echoes Leonard Swindler's 'Decalogue of Dialogue' and David Chalmers' 'Hard Problem of Consciousness.' We arrived at these conclusions independently. This means the truth is objective."
